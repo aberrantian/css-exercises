@@ -38,6 +38,7 @@ body, html {
 
 .article {
   background-color: #bccbde;
+  grid-area: 3 / 2 / 4 / 3;
 }
 
 .article p {
