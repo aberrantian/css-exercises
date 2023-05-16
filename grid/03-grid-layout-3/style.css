@@ -75,6 +75,10 @@
   display: grid;
 }
 
+ul {
+  list-style: none;
+}
+
 .article {
   background-color: #bccbde;
   grid-column: 2 / 3;
