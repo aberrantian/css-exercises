@@ -56,6 +56,12 @@
 
 }
 
+.sidebar > * {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
 .sidebar .photo {
   background-color: white;
   color: black;
