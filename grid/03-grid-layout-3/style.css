@@ -44,7 +44,10 @@
   grid-row: 2 / 4;
 
   display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
   gap: 50px;
+
 }
 
 .sidebar .photo {
@@ -54,7 +57,6 @@
   font-weight: normal;
   border-radius: 10px;
 }
-
 
 .sidebar .side-content {
   background-color: white;
