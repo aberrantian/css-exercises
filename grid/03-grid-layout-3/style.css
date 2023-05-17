@@ -126,6 +126,10 @@ ul {
   height: 200px;
 }
 
+.article > .card > .title {
+  margin-bottom: 10px;
+}
+
 .card p {
   color: black;
   font-weight: normal;
